@@ -13,7 +13,7 @@ In this assignment we'll practice working with the [Decord](https://github.com/d
 
 1. Create a folder in your Google Drive or in your machine's workspace. Copy to your drive folder or download the following notebook:
 
- [**Assignment 3 - notebook**](https://colab.research.google.com/drive/13e41RXfb78HEC7TY7-o7x_BiLysdIEDv?usp=sharing)
+ [**Assignment 3 - notebook**](https://colab.research.google.com/drive/1YiU52v3tVKA4FUypMXVc0ShtsoDD4E5o?usp=sharing)
 
 2. Follow the instructions in the notebook for completing the assignment.
 
